@@ -1,9 +1,10 @@
-package go
+package main
 
-struct Vector {
+import "fmt"
+
+type Vector struct {
 }
 
-func main(){
+func main() {
 	fmt.Println()
-
-} 
+}
