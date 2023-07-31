@@ -1,1 +1,1 @@
-my first microservice in go! a url shortener :)
+wip go url shortener
